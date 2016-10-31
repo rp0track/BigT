@@ -26,4 +26,3 @@ El objetivo de esta funcionalidad es identificar información sensible almacenad
 - Cadenas de conexión de bases de datos
 - Sids de Oracle
 - Instancias de bases de datos
-- Direcciones IP
